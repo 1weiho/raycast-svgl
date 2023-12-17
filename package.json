@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "svgl",
-  "title": "svgl",
+  "title": "Svgl",
   "description": "Search SVG logos via svgl",
   "icon": "command-icon.png",
   "author": "davidho0403",
@@ -13,13 +13,14 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Grid",
+      "title": "Search SVG Logos",
       "description": "Template for showing a static grid",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.64.3"
+    "@raycast/api": "^1.64.3",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
