@@ -12,7 +12,7 @@ export default function Command() {
 
   const CACHE_KEY = "svglData";
   const CACHE_DURATION_MS = 60 * 1000; // 1 minute api response cache
-  const API_URL = "https://svgl-git-next-pheralb.vercel.app/api";
+  const API_URL = "https://svgl.app/api";
 
   const cache = new Cache();
 
