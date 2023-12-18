@@ -14,7 +14,7 @@
     {
       "name": "index",
       "title": "Search SVG Logos",
-      "description": "Template for showing a static grid",
+      "description": "Search SVG logos via svgl",
       "mode": "view"
     }
   ],
