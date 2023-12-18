@@ -1,6 +1,8 @@
 # svgl Raycast extension
 
-The Raycast extension to search SVG logos via [svgl](https://svgl.app/).
+<img width="1209" alt="image" src="https://github.com/davidho0403/raycast-svgl/assets/75478661/7b779dae-a3ab-4357-ac4b-944335b7ebb7">
+
+#### The Raycast extension to search SVG logos via [svgl](https://svgl.app/).
 
 ## Features
 
